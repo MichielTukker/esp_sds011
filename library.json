@@ -23,7 +23,11 @@
     "dependencies": [
         {
             "name": "EspSoftwareSerial",
-            "version": "~8.1.0"
+            "version": "~8.2.0"
+        },
+        {
+            "name": "dok-net/ghostl",
+            "version": "^1.0.0"
         }
     ]
-}
+} 
